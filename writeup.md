@@ -9,7 +9,7 @@ The goals / steps of this project are the following:
 * Reflect on my work in a written report
 
 
-![jpg](test_images_output/challenge0_annotated.jpg)
+![jpg](test_images_output/challenge0.jpg)
 
 
 ---
